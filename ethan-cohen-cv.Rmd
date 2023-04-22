@@ -10,7 +10,7 @@ author: Ethan Cohen
 #jobtitle: "Federal Reserve Bank of Minneapolis"
 #address: "Federal Reserve Bank of Minneapolis, 90 Hennepin Ave, Minneapolis, MN 55401"
 fontawesome: no
-email: cohen.ethant@gmail.com
+email: cohen770@umn.edu
 web: ettcohen.github.io
 #github: ettcohen
 #twitter: allbriteallday
@@ -47,7 +47,7 @@ urlcolor: blue
 
 # Research Interests
 
-- Macroeconomics, Labor Economics, Urban Economics, Monetary Economics/Macro-finance
+- Macroeconomics, Labor Economics, Urban/Spatial Economics
 
 # Working Papers 
 
