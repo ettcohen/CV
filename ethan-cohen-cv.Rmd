@@ -3,6 +3,9 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
+    extra_dependencies:
+      xcolor: null
+
 geometry: margin=1in
 
 title: CV
@@ -27,50 +30,52 @@ urlcolor: blue
 
 # Education
 
-- *Ph.D. in Economics*, University of Minnesota \hfill 2023-Present
+-   *Ph.D. in Economics*, University of Minnesota \hfill 2023-Present
 
-- *M.A. in Economics and Politics*, The University of Edinburgh \hfill 2017-2021
-	
-	- First Class Degree with Honors (highest distinction)
-	- Merchant Company Prize for Highest Graded Senior Economics Dissertation
+-   *M.A. in Economics and Politics*, The University of Edinburgh \hfill 2017-2021
 
+    -   First Class Degree with Honors (highest distinction)
+    -   Merchant Company Prize for Highest Graded Senior Economics Dissertation
 
 # Experience
 
-- *Senior Research Assistant*, Federal Reserve Board of Governors \hfill 2021-2023
+-   *Senior Research Assistant*, Federal Reserve Board of Governors \hfill 2021-2023
 
-	- Money Market Analysis, Division of Monetary Affairs
+    -   Money Market Analysis, Division of Monetary Affairs
 
-- *Research Intern*, Federal Reserve Board of Governors \hfill Summer 2020
+-   *Research Intern*, Federal Reserve Board of Governors \hfill Summer 2020
 
-	- Policy Effectiveness and Assessment, Division of Supervision and Regulation 
+    -   Policy Effectiveness and Assessment, Division of Supervision and Regulation
 
 # Research Interests
 
-- Macroeconomics, Labor Economics, Urban/Spatial Economics
+-   Macroeconomics, Labor Economics, Urban/Spatial Economics
 
-# Working Papers 
+# Working Papers
 
-- “Stop Believing in Reserves” *(with Sriya Anbil, Alyssa Anderson, and Romina Ruprecht)*, 2023.
+-   "Stop Believing in Reserves" with [\textcolor{darkgray!80}{\textit{\underline{Sriya Anbil}}}](https://sites.google.com/site/sriyaanbil/home?authuser=0), [\textcolor{darkgray!80}{\textit{\underline{Alyssa Anderson}}}](https://www.alyssagrayanderson.com), and [\textcolor{darkgray!80}{\textit{\underline{Romina Ruprecht}}}](https://sites.google.com/view/rominaruprecht/home), 2023.
 
 # Publications
 
-- [“Skill Bias, Technology Frontiers, Barriers to Adoption, and the Effects of Trade: A Panel Data Analysis”](https://ettcohen.github.io/files/papers/diss.pdf), *Issues in Political Economy*, 2022.
+-   ["Skill Bias, Technology Frontiers, Barriers to Adoption, and the Effects of Trade: A Panel Data Analysis"](https://ettcohen.github.io/files/papers/diss.pdf), *Issues in Political Economy*, 2022.
 
 # Conference Presentations and Workshops
 
-- *2023*: Swiss Winter Conference on Financial Intermediation (Study Center Gerzensee); SFS Cavalcade (UT Austin); European Finance Association $50^{th}$ Annual Meeting (Vrije Universiteit Amsterdam)
+-   *2023*: Swiss Winter Conference on Financial Intermediation (Study Center Gerzensee); SFS Cavalcade (UT Austin); European Finance Association $50^{th}$ Annual Meeting (Vrije Universiteit Amsterdam)
 
-- *2022*: Economic Theory Reading Group (University of Basel); Macroeconomic Theory Brownbag Seminar (University of California, Irvine); Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); Annual WAPFIN Conference (NYU Stern); Midwest Macro Conference (Southern Methodist University); Monetary Affairs Lunch Brownbag Seminar (Federal Reserve Board of Governors); Annual End-of-Year Conference of Swiss Economists Abroad (University of Basel)
+-   *2022*: Economic Theory Reading Group (University of Basel); Macroeconomic Theory Brownbag Seminar (University of California, Irvine); Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); Annual WAPFIN Conference (NYU Stern); Midwest Macro Conference (Southern Methodist University); Monetary Affairs Lunch Brownbag Seminar (Federal Reserve Board of Governors); Annual End-of-Year Conference of Swiss Economists Abroad (University of Basel)
 
 # Honors and Awards
-- *2023:* Bert and Susan Hill Gross Fellowship, University of Minnesota
-- *2021:* Merchant Company Prize for Highest Graded Economics Dissertation, The University of Edinburgh
-- *2019:* Go Abroad Economics Award (Malaysia)/Edinburgh Award, The University of Edinburgh
+
+-   *2023:* Bert and Susan Hill Gross Fellowship, University of Minnesota
+-   *2021:* Merchant Company Prize for Highest Graded Economics Dissertation, The University of Edinburgh
+-   *2019:* Go Abroad Economics Award (Malaysia)/Edinburgh Award, The University of Edinburgh
 
 # Skills
-- *Software*: R, Stata, Latex, Matlab, Julia, Git, SQL, Python, Perl, Fame
-- *Languages*: English (native), Italian (intermediate), Spanish (basic)
+
+-   *Software*: R, Stata, Latex, Matlab, Julia, Git, SQL, Python, Perl, Fame
+-   *Languages*: English (native), Italian (intermediate), Spanish (basic)
 
 # Personal
-- *Citizenship:* USA
+
+-   *Citizenship:* USA
