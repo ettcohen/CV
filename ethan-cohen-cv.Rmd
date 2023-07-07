@@ -56,8 +56,8 @@ urlcolor: blue
 -   "Stop Believing in Reserves" with [\textcolor{darkgray!80}{\textit{\underline{Sriya Anbil}}}](https://sites.google.com/site/sriyaanbil/home?authuser=0), [\textcolor{darkgray!80}{\textit{\underline{Alyssa Anderson}}}](https://www.alyssagrayanderson.com), and [\textcolor{darkgray!80}{\textit{\underline{Romina Ruprecht}}}](https://sites.google.com/view/rominaruprecht/home), 2023.
 
 # Publications
-
--   ["Skill Bias, Technology Frontiers, Barriers to Adoption, and the Effects of Trade: A Panel Data Analysis"](https://ettcohen.github.io/files/papers/diss.pdf), *Issues in Political Economy*, 2022.
+-  "Skill Bias, Technology Frontiers, Barriers to Adoption, and the Effects of Trade: A Panel Data Analysis", *Issues in Political Economy*, 2022.
+<!-- -   ["Skill Bias, Technology Frontiers, Barriers to Adoption, and the Effects of Trade: A Panel Data Analysis"](https://ettcohen.github.io/files/papers/diss.pdf), *Issues in Political Economy*, 2022. -->
 
 # Conference Presentations and Workshops
 

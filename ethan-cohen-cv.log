@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.11)  12 JUN 2023 09:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.11)  7 JUL 2023 16:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -506,7 +506,7 @@ Package rerunfilecheck Info: File `ethan-cohen-cv.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  13266 strings out of 478268
- 207642 string characters out of 5846346
+ 207637 string characters out of 5846346
  548716 words of memory out of 5000000
  31115 multiletter control sequences out of 15000+600000
  508050 words of font info for 162 fonts, out of 8000000 for 9000
@@ -520,10 +520,10 @@ live/2022/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/202
 ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on ethan-cohen-cv.pdf (2 pages, 108827 bytes).
+Output written on ethan-cohen-cv.pdf (2 pages, 108848 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  21 named destinations out of 1000 (max. 500000)
  57417 words of extra memory for PDF output out of 61914 (max. 10000000)
 
