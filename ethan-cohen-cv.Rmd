@@ -63,7 +63,7 @@ urlcolor: blue
 
 -   *2024*: American Finance Association Annual Meeting (San Antonio)
 
--   *2023*: Swiss Winter Conference on Financial Intermediation (Study Center Gerzensee); SFS Cavalcade (UT Austin); European Finance Association $50^{th}$ Annual Meeting (Vrije Universiteit Amsterdam)
+-   *2023*: Swiss Winter Conference on Financial Intermediation (Study Center Gerzensee); SFS Cavalcade (UT Austin); Bundesbank; European Finance Association $50^{th}$ Annual Meeting (Vrije Universiteit Amsterdam)
 
 -   *2022*: Economic Theory Reading Group (University of Basel); Macroeconomic Theory Brownbag Seminar (University of California, Irvine); Workshop on Money, Banking, Payments, and Finance (Federal Reserve Board of Governors); Annual WAPFIN Conference (NYU Stern); Midwest Macro Conference (Southern Methodist University); Monetary Affairs Lunch Brownbag Seminar (Federal Reserve Board of Governors); Annual End-of-Year Conference of Swiss Economists Abroad (University of Basel)
 
